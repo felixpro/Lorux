@@ -57,6 +57,7 @@ input[type="time"] {
   background: white;
   border-bottom: 1px solid #e1e1e1;
   color: black;
+  margin-bottom: 10px;
 }
 
 .cita p {
@@ -90,4 +91,4 @@ input[type="time"] {
   text-transform: uppercase;
   text-align: center;
   font-family:  'Staatliches', cursive;
-} 
+}
